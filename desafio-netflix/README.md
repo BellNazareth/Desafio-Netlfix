@@ -11,5 +11,5 @@ O resultado é a pagina do site sem precisar colocar criar as paginas de link (e
 
 ## Criação da Página 
 
-![netflix page](assets/main-page.png)
+![netflix page](NetflixPage.jpeg)
 
